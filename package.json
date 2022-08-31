@@ -1,0 +1,16 @@
+{
+  "name": "test6",
+  "main": "test6",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "test6 ทดลอง",
+  "keywords": [
+    "test6",
+    "ทดลอง"
+  ],
+  "repository": "https://github.com/peachy23ph/test6",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
