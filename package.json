@@ -1,5 +1,5 @@
 {
-  "name": "test6",
+  "name": "@peachy23ph/test6",
   "main": "test6",
   "theme": "syntax",
   "version": "0.0.0",
@@ -8,9 +8,20 @@
     "test6",
     "ทดลอง"
   ],
-  "repository": "https://github.com/peachy23ph/test6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peachy23ph/test6.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/peachy23ph/test6/issues"
+  },
+  "homepage": "https://github.com/peachy23ph/test6#readme",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": ""
 }
